@@ -1,0 +1,11 @@
+# External git repositories
+/nanoGPT/
+/nanochat/
+
+# Maven build outputs
+target/
+
+# OS & IDE files
+.DS_Store
+.idea/
+*.iml
