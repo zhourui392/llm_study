@@ -9,3 +9,16 @@ target/
 .DS_Store
 .idea/
 *.iml
+
+# Python & uv
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Training artifacts & datasets
+*.pt
+*.pth
+*.bin
+*.safetensors
+out/

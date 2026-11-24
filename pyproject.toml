@@ -1,0 +1,12 @@
+[project]
+name = "llm-study"
+version = "0.1.0"
+description = "Build a modern small LLM from scratch with PyTorch"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "numpy",
+    "pytest",
+    "regex",
+    "tiktoken",
+    "torch",
+]
